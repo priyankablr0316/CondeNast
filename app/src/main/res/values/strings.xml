@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CondeNast</string>
+    <string name="headline">HEADLINES</string>
+    <string name="network_connection_online">You are back online now</string>
+    <string name="network_connection_offline">You are offline but you can still browse saved news</string>
+    <string name="likes">%d likes</string>
+    <string name="comments">View all %d comments</string>
+    <string name="progress_text">Hold on, loading articles</string>
+</resources>
